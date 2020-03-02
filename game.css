@@ -1,0 +1,28 @@
+#game {
+    flex-direction: column;
+}
+
+.answer-wrapper {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background-color: white;
+    border: 0.2rem solid #226763;
+    font-size: 2rem;
+    margin: 1rem;
+}
+
+.answer-wrapper:hover {
+    cursor: pointer;
+    transform: translateY(-0.1rem);
+    transition: transform .2s;
+}
+
+.answer-prefix {
+    background-color: #98DDCE;
+    padding: 1.5rem 2rem;
+}
+
+.answer-text {
+    padding: 1rem
+}
