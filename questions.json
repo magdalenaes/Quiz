@@ -1,0 +1,26 @@
+[
+    {
+        "question": "Inside?",
+        "choice1": "ala",
+        "choice2": "bala",
+        "choice3": "cela",
+        "choice4": "dupa",
+        "answer": 1
+    },
+    {
+        "question": "Inside2?",
+        "choice1": "ala",
+        "choice2": "bala",
+        "choice3": "cela",
+        "choice4": "dupa",
+        "answer": 2
+    },
+    {
+        "question": "Inside3?",
+        "choice1": "ala",
+        "choice2": "bala",
+        "choice3": "cela",
+        "choice4": "dupa",
+        "answer": 3
+    }
+]
